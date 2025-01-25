@@ -47,6 +47,7 @@ I, Gokul Samraj, declare that all the below-given information is true to the bes
 - **Predictive Analysis of Sports Data** (*PG*)  
   - System based on Python Machine Learning  
   - To predict player stats of cricket players.
+  - Helps to improve performance, guide decisions, set betting odds, and transform the sports experience.
 
 - **Open Source Library Management and Digital Library Software** (*UG*)  
   - Automation library software using PHP and MySQL  
