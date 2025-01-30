@@ -1,5 +1,5 @@
 # Gokul Samraj S
-[Email](mailto:iamgokulsamraj@gmail.com) | +91 81998 70709 | [LinkedIn](https://www.linkedin.com/in/gokul-samraj-s/)
+[Email](mailto:iamgokulsamraj@gmail.com) | +91 81998 70709 | [LinkedIn](https://www.linkedin.com/in/gokul-samraj-s/) | [Github](https://github.com/GokulSamraj)
 
 ---
 
@@ -37,9 +37,11 @@ I, Gokul Samraj, declare that all the below-given information is true to the bes
 ---
 
 ## TECHNICAL SKILLS
-- Python | PHP | HTML | MySQL  
-- Basic Automation Scripts  
-- Debugging  
+- Python
+- PHP
+- HTML
+- MySQL
+- Basic Automation Scripts(using Python)
 
 ---
 
@@ -58,12 +60,11 @@ I, Gokul Samraj, declare that all the below-given information is true to the bes
 ## HOBBIES
 - Listening to Music  
 - Testing new Softwares  
-- Playing Video Games  
+- PC Building  
 
 ---
 
 ## EXTRAS
 - **TANCET**: 79.283% - Percentile Score (*2022*)  
-- **Secretary at Spectra Association**: - JJ College of Arts and Science (*2022*)  
-  
+- **Secretary at Spectra Association**:  JJ College of Arts and Science (*2022*)  
 - **Simple Windows Tweaking Tool**: [GitHub](https://github.com/GokulSamraj/Hell-Scapes-Tweaking-Tool)
