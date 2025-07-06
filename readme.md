@@ -8,6 +8,13 @@ I, Gokul Samraj, declare that all the below-given information is true to the bes
 
 ---
 
+## EXPERIENCE
+- **LMES Academy - Chennai**  
+  Operations Executive
+  *March 2025 - till date
+
+---
+
 ## EDUCATION
 - **Masters in Computer Application**  
   PET Engineering College, Vallioor  
