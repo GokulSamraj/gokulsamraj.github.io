@@ -1,4 +1,4 @@
-# Gokul Samraj S
+
 [Email](mailto:iamgokulsamraj@gmail.com) | +91 81998 70709 | [LinkedIn](https://www.linkedin.com/in/gokul-samraj-s/) | [Github](https://github.com/GokulSamraj)
 
 ---
@@ -9,9 +9,9 @@ I, Gokul Samraj, declare that all the below-given information is true to the bes
 ---
 
 ## EXPERIENCE
-- **LMES Academy - Chennai**  
-  Operations Executive
-  *March 2025 - till date
+- **Operations Executive**  
+  LMES Academy, Chennai  
+  *Mar 2025 - till date*
 
 ---
 
