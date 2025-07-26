@@ -75,4 +75,4 @@ I, Gokul Samraj, declare that all the below-given information is true to the bes
 ## EXTRAS
 - **TANCET**: 79.283% - Percentile Score (*2022*)  
 - **Secretary at Spectra Association**:  JJ College of Arts and Science (*2022*)  
-- **Simple Windows Tweaking Tool**: [GitHub](https://github.com/GokulSamraj/Hell-Scapes-Tweaking-Tool)
+- [**Simple Windows Tweaking Tool**]:(https://github.com/GokulSamraj/Hell-Scapes-Tweaking-Tool)
