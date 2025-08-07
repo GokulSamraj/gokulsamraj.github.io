@@ -66,9 +66,9 @@ I, Gokul Samraj, declare that all the below-given information is true to the bes
 ---
 
 ## HOBBIES
-- Listening to Music  
-- Testing new Softwares  
-- PC Building  
+- Listening to Music
+- Testing new Softwares
+- PC Building
 
 ---
 
