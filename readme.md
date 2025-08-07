@@ -1,81 +1,99 @@
----
+# Gokul Samraj
 
-[Email](mailto:iamgokulsamraj@gmail.com) | +91 81998 70709 | [LinkedIn](https://www.linkedin.com/in/gokul-samraj-s/) | [Github](https://github.com/GokulSamraj)
-
----
-
-## PROFILE SUMMARY
-I, Gokul Samraj, declare that all the below-given information is true to the best of my knowledge and belief. I assure you that, if I am appointed, I will discharge my duties to the extreme extent of my ability and to your fullest satisfaction.
+[Email](mailto:iamgokulsamraj@gmail.com) | +91 81898 70709 | [LinkedIn](https://www.linkedin.com/in/gokul-samraj-s/) | [GitHub](https://github.com/GokulSamraj)
 
 ---
 
-## EXPERIENCE
-- **Operations Executive**  
-  LMES Academy, Chennai  
-  *Mar 2025 - till date*
+## Profile Summary
+
+I am Gokul Samraj. I declare that all the information given below is true to the best of my knowledge and belief. I assure you that, if appointed, I will perform my duties to the best of my ability and to your fullest satisfaction.
 
 ---
 
-## EDUCATION
-- **Masters in Computer Application**  
+## Experience
+
+**Operations Executive**  
+_LMES Academy, Chennai_  
+March 2025 – Present
+
+---
+
+## Education
+
+- **Master of Computer Applications**  
   PET Engineering College, Vallioor  
-  *Sept 2024*
+  _September 2024_
 
-- **Bachelors in Computer Science (Information Technology)**  
+- **Bachelor of Science in Computer Science (Information Technology)**  
   JJ College of Arts and Science, Pudukkottai  
-  *June 2022*
+  _June 2022_
 
 - **Higher Secondary School Certificate**  
   K.V.S. Matric. Hr. Sec. School, Thoothukudi  
-  *April 2019*
+  _April 2019_
 
 - **Secondary School Leaving Certificate**  
-  A.P.C. Veerabahu. Matric. Hr. Sec. School, Thoothukudi  
-  *April 2017*
+  A.P.C. Veerabahu Matric. Hr. Sec. School, Thoothukudi  
+  _April 2017_
 
 ---
 
-## RELEVANT COURSEWORK
-- Problem Solving
-- Leadership
-- Decision-Making
-- Communication
-- Team Work
+## Relevant Coursework
+
+- Problem Solving  
+- Leadership  
+- Decision Making  
+- Communication  
+- Teamwork  
 
 ---
 
-## TECHNICAL SKILLS
-- Python
-- PHP
-- HTML
-- MySQL
-- Basic Automation Scripts(using Python)
+## Technical Skills
+
+- Python  
+- PHP  
+- HTML  
+- MySQL  
+- Basic Automation Scripts (using Python)
 
 ---
 
-## ACADEMIC PROJECT EXPERIENCE
-- **Predictive Analysis of Sports Data** (*PG*)  
-  - System based on Python Machine Learning  
-  - To predict player stats of cricket players.
-  - Helps to improve performance, guide decisions, set betting odds, and transform the sports experience.
+## Academic Project Experience
 
-- **Open Source Library Management and Digital Library Software** (*UG*)  
-  - Automation library software using PHP and MySQL  
-  - Easy-to-manage moderate-level library.
+- **Predictive Analysis of Sports Data** (Postgraduate)  
+  - Built using Python Machine Learning  
+  - Predicts cricket player stats  
+  - Aids in performance improvement, decision-making, setting betting odds, and transforming the sports experience
+
+- **Open Source Library Management and Digital Library Software** (Undergraduate)  
+  - Library software built using PHP and MySQL  
+  - Simplifies mid-level library management
 
 ---
 
-## HOBBIES
-- Listening to Music
-- Testing new Softwares
+## Achievements & Extras
+
+- **TANCET:** 79.283 Percentile (2022)
+- **Secretary, Spectra Association:** JJ College of Arts and Science (2022)
+
+---
+
+## Projects
+
+- [**Simple Windows Tweaking Tool**](https://github.com/GokulSamraj/Hell-Scapes-Tweaking-Tool)  
+  Simple and efficient tweaking tool for low-end PCs/laptops to boost gaming experience
+
+- [**Auto Admit Browser Extension for Zoom**](https://github.com/GokulSamraj/Zoom-Auto-Admit)  
+  Automates admitting participants in Zoom meetings
+
+---
+
+## Hobbies
+
+- Listening to Music  
+- Testing New Software  
 - PC Building
 
 ---
 
-## EXTRAS
-- **TANCET**: 79.283% - Percentile Score (*2022*)  
-- **Secretary at Spectra Association**:  JJ College of Arts and Science (*2022*)
-
-- [**Simple Windows Tweaking Tool**](https://github.com/GokulSamraj/Hell-Scapes-Tweaking-Tool)
-
-- [**Auto Admit Browser Extension for Zoom**](https://github.com/GokulSamraj/Zoom-Auto-Admit)
+_Thank you for visiting my profile!_
