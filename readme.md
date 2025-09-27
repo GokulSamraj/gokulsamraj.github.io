@@ -1,6 +1,6 @@
 # Gokul Samraj
 
-[Email](mailto:iamgokulsamraj@gmail.com) | +91 81898 70709 | [LinkedIn](https://www.linkedin.com/in/gokul-samraj-s/) | [GitHub](https://github.com/GokulSamraj)
+[Email](mailto:iamgokulsamraj@gmail.com) | [Phone](tel:8189870709) | [LinkedIn](https://www.linkedin.com/in/gokul-samraj-s/) | [GitHub](https://github.com/GokulSamraj)
 
 ---
 
