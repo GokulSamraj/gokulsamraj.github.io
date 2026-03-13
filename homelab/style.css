@@ -540,12 +540,9 @@ body {
   gap: 20px;
 }
 
-@media (max-width: 600px) {
+@media (max-width: 768px) {
   .specs-grid {
-    grid-template-columns: repeat(2, 1fr);
-  }
-  body {
-    overflow-y: auto; /* Allow scrolling on very small screens where content simply won't fit */
+    grid-template-columns: 1fr;
   }
 }
 
@@ -719,5 +716,4 @@ body {
     width: 90px;
     height: 90px;
   }
-
 }
